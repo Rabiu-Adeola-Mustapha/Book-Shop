@@ -1,0 +1,15 @@
+@import url(reset.css);
+
+.app {
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.appbar {
+    padding: 0 30px;
+}
